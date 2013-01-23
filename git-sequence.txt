@@ -1,0 +1,6 @@
+git config --global user.name "Fox"
+git config --global user.email "fox@anirudhr.com"
+git init
+git add *
+git remote add origin https://github.com/DarkCthulhu/Repo.git
+git push origin master
