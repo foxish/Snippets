@@ -1,5 +1,5 @@
-git config --global user.name "Fox"
-git config --global user.email "fox@anirudhr.com"
+git config --global user.name "DarkCthulhu"
+git config --global user.email "me@anirudhr.com"
 git init
 git add *
 git remote add origin https://github.com/DarkCthulhu/Repo.git
