@@ -54,13 +54,13 @@ ${offset 115}${color }${cpu cpu0} ${offset 115}${color }${cpu cpu1}
 ${offset 40}${color grey}${cpugraph cpu0 30,355 00000 ddaa00 -t}
 
 ${color grey}Processes:
-${offset 40}${color slate grey}Top CPU-Hogs ${offset 50}PID ${offset 15}CPU%
+${offset 40}${color slate grey}Top CPU-Hogs ${offset 50}PID ${offset 8}CPU%
 ${offset 40}${color #ddaa00} ${top name 1} ${top pid 1}${top cpu 1}
 ${offset 40}${color lightgrey} ${top name 2} ${top pid 2}${top cpu 2}
 ${offset 40}${color lightgrey} ${top name 3} ${top pid 3}${top cpu 3}
 ${offset 40}${color lightgrey} ${top name 4} ${top pid 4}${top cpu 4}
 
-${offset 40}${color slate grey}Top MEM-Hogs ${offset 50}PID ${offset 15}MEM%
+${offset 40}${color slate grey}Top MEM-Hogs ${offset 50}PID ${offset 8}MEM%
 ${offset 40}${color #ddaa00} ${top_mem name 1} ${top_mem pid 1}${top_mem mem 1}
 ${offset 40}${color lightgrey} ${top_mem name 2} ${top_mem pid 2}${top_mem mem 2}
 ${offset 40}${color lightgrey} ${top_mem name 3} ${top_mem pid 3}${top_mem mem 3}
